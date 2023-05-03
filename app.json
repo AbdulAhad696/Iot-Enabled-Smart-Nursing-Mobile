@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "IoT-Enabled-Smart-Nursing-Mobile",
+    "slug": "IoT-Enabled-Smart-Nursing-Mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "../IoT-Enabled-Smart-Nursing-Mobile/src/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "../IoT-Enabled-Smart-Nursing-Mobile/src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "../IoT-Enabled-Smart-Nursing-Mobile/src/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "../IoT-Enabled-Smart-Nursing-Mobile/src/assets/favicon.png"
+    }
+  }
+}
